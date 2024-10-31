@@ -26,7 +26,7 @@ When the city name is empty, the app displays the weather data for the current l
 ### Steps to Install
 1. Clone this repository.
       ```bash
-   git clone https://github.com/your-username/flutter-event-scheduler.git](https://github.com/DagiABAY/WeatherApp.git
+   git clone https://github.com/DagiABAY/WeatherApp.git
 2. Run `flutter pub get` to install dependencies.
 3. Run the app using `flutter run`.
 
