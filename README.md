@@ -1,6 +1,8 @@
 # WeatherApp
 
-A Flutter weather app that utilizes the OpenWeather API for weather data. I implemented state management using the Provider package, handled network requests with Dio, and used Geolocator to retrieve the device's current location
+A Flutter weather app that utilizes the OpenWeather API for weather data. I implemented state management using the Provider package, handled network requests with Dio, and used Geolocator to retrieve the device's current location.
+
+When the city name is empty, the app displays the weather data for the current location. If the city name is provided and is correct, it shows the weather data for that city. Finally, if the city name is incorrect, it displays 'N/A'.
 ## Features
 
 - **Search city name**: you can see the weather if the city.
