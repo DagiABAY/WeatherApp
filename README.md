@@ -27,3 +27,7 @@ A Flutter weather app that utilizes the OpenWeather API for weather data. I impl
    git clone https://github.com/your-username/flutter-event-scheduler.git](https://github.com/DagiABAY/WeatherApp.git
 2. Run `flutter pub get` to install dependencies.
 3. Run the app using `flutter run`.
+
+## Demo
+https://github.com/user-attachments/assets/7cb42c16-2172-4417-91fc-8ae35df5bc18
+
